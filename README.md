@@ -7,6 +7,10 @@ services trained on what they produce. Most of it is automated scoring of writin
 where a model ships only once it matches human-to-human agreement. Lately also generative
 models, post-training, and agent harnesses.
 
+Fifteen peer-reviewed conference papers and presentations since 2021 (NCME, AIME-Con, ITC, a
+NeurIPS workshop) on synthetic data, LLM evaluation, label quality, active learning and
+confidence modeling.
+
 **Selected projects**
 
 | | |
