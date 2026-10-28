@@ -1,6 +1,6 @@
 ### Justin Barber
 
-Machine learning scientist in Denver. I build and evaluate transformer models, mostly for scoring
+Machine learning scientist and engineer in Colorado. I build and evaluate transformer models and their services, mostly for scoring
 writing and speech, and work on generative models, post-training, and agent harnesses.
 
 **Selected projects**
